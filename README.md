@@ -3,7 +3,7 @@
 
  ![Aplicação Cálculos](aplicacao-calculos.png)
 Desenvolvida no âmbito da ação de formação **Introdução ao Git e GitHub**
-##Operações suportadas
+## Operações suportadas
 Neste momento esta aplicação implementa as seguintes operações:
 - soma
 - subtração
@@ -13,7 +13,7 @@ Neste momento esta aplicação implementa as seguintes operações:
 - conversão de distâncias
     - metros :arrow_right: milhas
     - milhas :arrow_right: metros
-##Tecnologias utilizadas neste projeto
+## Tecnologias utilizadas neste projeto
 - Visual Studio
 - C#
 - Git
